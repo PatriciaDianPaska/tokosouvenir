@@ -45,5 +45,7 @@ HASIL TAMBAH KASIR
 ![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20ADMIN/19.png)
 UBAH KASIR
 ![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20ADMIN/20.png)
+HASIL UBAH KASIR
+![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20ADMIN/22.png)
 HAPUS KASIR
 ![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20ADMIN/21.png)
