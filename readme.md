@@ -49,3 +49,21 @@ HASIL UBAH KASIR
 ![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20ADMIN/22.png)
 HAPUS KASIR
 ![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20ADMIN/21.png)
+
+SS ADMIN KASIR
+LOGIN KOSIR
+![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20KASIR/Screenshot%20(59).png)
+TAMPILAN AWAL KASIR
+![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20KASIR/Screenshot%20(60).png)
+BARANG
+![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20KASIR/Screenshot%20(61).png)
+KATEGORI
+![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20KASIR/Screenshot%20(62).png)
+HISTORI PENJUALAN
+![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20KASIR/Screenshot%20(63).png)
+TRANSAKSI
+![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20KASIR/Screenshot%20(64).png)
+HASIL TRANSAKSI
+![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20KASIR/Screenshot%20(65).png)
+HASIL TRANSAKSI DI HISTORI
+![alt text](https://github.com/PatriciaDianPaska/tokosouvenir/blob/master/SS%20KASIR/Screenshot%20(66).png)
